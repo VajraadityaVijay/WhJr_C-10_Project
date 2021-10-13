@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+a {
+  color: rgb(0, 72, 136);
+  width: 100vw;
+  position: relative;
+  left: 20em;
+  top: 49vh;
+}
